@@ -1,3 +1,6 @@
+# stock-market-dashboard-webapp
+Modern stock market dashboard built with Angular 20, Tailwind CSS, Signals, RxJS, Socket.IO and Chart.js.
+
 # StockMarketDashboardWebapp
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.30.
