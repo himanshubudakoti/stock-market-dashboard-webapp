@@ -1,2 +1,2 @@
 # stock-market-dashboard-webapp
-Angular 20 Stock Market Dashboard with Tailwind CSS, Signals and Socket.IO
+Modern stock market dashboard built with Angular 20, Tailwind CSS, Signals, RxJS, Socket.IO and Chart.js.
